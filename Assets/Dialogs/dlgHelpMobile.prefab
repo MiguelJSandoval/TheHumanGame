@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8084374504261971151
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1632346222136780259, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_Name
+      value: dlgHelp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_Pivot.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_Pivot.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchorMin.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222136780263, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222985982168, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 282.7996
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222985982168, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -160
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222985982168, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -0.0000011921
+      objectReference: {fileID: 0}
+    - target: {fileID: 1632346222985982169, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_Text
+      value: 'Help
+
+
+        To move press the arrow left and rigth buttons, you
+        can jump with the jump button.
+
+        Be careful with the bombs and have
+        fun!'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3561376368074177137, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 200.7739
+      objectReference: {fileID: 0}
+    - target: {fileID: 3561376368074177137, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 120.97786
+      objectReference: {fileID: 0}
+    - target: {fileID: 3561376368074177137, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 100.38
+      objectReference: {fileID: 0}
+    - target: {fileID: 3561376368074177137, guid: cc62779d771b46d4b945e1d346bd69b9,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.0000019073
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cc62779d771b46d4b945e1d346bd69b9, type: 3}
