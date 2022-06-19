@@ -5,8 +5,6 @@ Este proyecto está bajo la licencia General Public License V. 3.0 la cual se en
 este proyecto, o si lo prefiere puede dirigirse a https://www.gnu.org/licenses/ para obtener una 
 copia de esta licencia.
 
-Puede descargar el APK del juego desde https://drive.google.com/file/d/1UtIPb7XuThh2UrK3zyRQwfIRmdAWQTFs/view?usp=sharing
-
 Este juego fue un proyecto que realicé en la materia de simulación en mi quinto semestre de 
 la carrera de Ingeniería en Sistemas Computacionales (Agosto - Diciembre de 2020).
 
